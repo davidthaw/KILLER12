@@ -1,2 +1,2 @@
 01bb9ba6-a7c3-479c-a86b-4cd11c59b8b8 lifetime key
-205dd134-647b-45f3-97cf-46a5bf79cd00 7daykey-6.6.2026:8pm
+205dd134-647b-45f3-97cf-46a5bf79cd00 7day
